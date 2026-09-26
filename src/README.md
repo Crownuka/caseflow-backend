@@ -48,5 +48,6 @@ Full product scope is documented in [`PRD.md`](./PRD.md). Planned next: case man
 
 ## Author
 
-Ezenwanyi Iromba Uka — [GitHub](https://github.com/Crownuka) · [LinkedIn](https://www.linkedin.com/in/ezenwanyi-uka-046a29a7) 
+Ezenwanyi Iromba Uka — [GitHub](https://github.com/Crownuka)
+[LinkedIn](https://www.linkedin.com/in/ezenwanyi-uka-046a29a7) 
 [Medium] (https://medium.com/@queenuka30)
